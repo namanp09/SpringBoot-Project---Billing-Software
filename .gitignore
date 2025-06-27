@@ -18,6 +18,10 @@ target/
 *.iws
 *.iml
 *.ipr
+echo ".env.properties" >> .gitignore
+.env.properties
+src/main/resources/application.properties
+
 
 ### NetBeans ###
 /nbproject/private/
